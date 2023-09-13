@@ -7,6 +7,6 @@ Console.WriteLine("Привет, Любовь моя!");
 }
 else
 {
-    Console.Write("Привет, ");
-    Console.WriteLine(username);
+    Console.Write("Привет,");
+    Console.WriteLine( username);
 }
