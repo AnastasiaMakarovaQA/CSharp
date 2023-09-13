@@ -1,0 +1,15 @@
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\bin\Debug\net6.0\hello_world.exe
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\bin\Debug\net6.0\hello_world.deps.json
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\bin\Debug\net6.0\hello_world.runtimeconfig.json
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\bin\Debug\net6.0\hello_world.dll
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\bin\Debug\net6.0\hello_world.pdb
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\obj\Debug\net6.0\hello_world.csproj.AssemblyReference.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\obj\Debug\net6.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\obj\Debug\net6.0\hello_world.AssemblyInfoInputs.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\obj\Debug\net6.0\hello_world.AssemblyInfo.cs
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\obj\Debug\net6.0\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\obj\Debug\net6.0\hello_world.dll
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\obj\Debug\net6.0\refint\hello_world.dll
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\obj\Debug\net6.0\hello_world.pdb
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\obj\Debug\net6.0\hello_world.genruntimeconfig.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\hello_world\obj\Debug\net6.0\ref\hello_world.dll
