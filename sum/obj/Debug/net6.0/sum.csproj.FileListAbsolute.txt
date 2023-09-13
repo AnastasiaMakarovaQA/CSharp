@@ -1,0 +1,15 @@
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\bin\Debug\net6.0\sum.exe
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\bin\Debug\net6.0\sum.deps.json
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\bin\Debug\net6.0\sum.runtimeconfig.json
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\bin\Debug\net6.0\sum.dll
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\bin\Debug\net6.0\sum.pdb
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\obj\Debug\net6.0\sum.csproj.AssemblyReference.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\obj\Debug\net6.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\obj\Debug\net6.0\sum.AssemblyInfoInputs.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\obj\Debug\net6.0\sum.AssemblyInfo.cs
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\obj\Debug\net6.0\sum.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\obj\Debug\net6.0\sum.dll
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\obj\Debug\net6.0\refint\sum.dll
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\obj\Debug\net6.0\sum.pdb
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\obj\Debug\net6.0\sum.genruntimeconfig.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\sum\obj\Debug\net6.0\ref\sum.dll
