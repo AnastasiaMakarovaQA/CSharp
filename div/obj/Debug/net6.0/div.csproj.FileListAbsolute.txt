@@ -1,0 +1,15 @@
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\bin\Debug\net6.0\div.exe
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\bin\Debug\net6.0\div.deps.json
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\bin\Debug\net6.0\div.runtimeconfig.json
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\bin\Debug\net6.0\div.dll
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\bin\Debug\net6.0\div.pdb
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\obj\Debug\net6.0\div.csproj.AssemblyReference.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\obj\Debug\net6.0\div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\obj\Debug\net6.0\div.AssemblyInfoInputs.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\obj\Debug\net6.0\div.AssemblyInfo.cs
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\obj\Debug\net6.0\div.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\obj\Debug\net6.0\div.dll
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\obj\Debug\net6.0\refint\div.dll
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\obj\Debug\net6.0\div.pdb
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\obj\Debug\net6.0\div.genruntimeconfig.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\div\obj\Debug\net6.0\ref\div.dll
