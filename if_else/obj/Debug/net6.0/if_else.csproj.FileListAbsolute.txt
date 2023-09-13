@@ -1,0 +1,15 @@
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\obj\Debug\net6.0\if_else.csproj.AssemblyReference.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\obj\Debug\net6.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\obj\Debug\net6.0\if_else.AssemblyInfoInputs.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\obj\Debug\net6.0\if_else.AssemblyInfo.cs
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\obj\Debug\net6.0\if_else.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\bin\Debug\net6.0\if_else.exe
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\bin\Debug\net6.0\if_else.deps.json
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\bin\Debug\net6.0\if_else.runtimeconfig.json
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\bin\Debug\net6.0\if_else.dll
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\bin\Debug\net6.0\if_else.pdb
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\obj\Debug\net6.0\if_else.dll
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\obj\Debug\net6.0\refint\if_else.dll
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\obj\Debug\net6.0\if_else.pdb
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\obj\Debug\net6.0\if_else.genruntimeconfig.cache
+C:\Users\Anastasiya\Desktop\папки\C-sharp\if_else\obj\Debug\net6.0\ref\if_else.dll
