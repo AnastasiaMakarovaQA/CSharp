@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anastasiya\\Desktop\\папки\\C-sharp\\sum\\sum.csproj",
+      "projectUniqueName": "d:\\папки\\C-sharp\\sum\\sum.csproj",
       "projectName": "sum",
-      "projectPath": "C:\\Users\\Anastasiya\\Desktop\\папки\\C-sharp\\sum\\sum.csproj",
+      "projectPath": "d:\\папки\\C-sharp\\sum\\sum.csproj",
       "packagesPath": "C:\\Users\\Anastasiya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anastasiya\\Desktop\\папки\\C-sharp\\sum\\obj\\",
+      "outputPath": "d:\\папки\\C-sharp\\sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anastasiya\\AppData\\Roaming\\NuGet\\NuGet.Config"

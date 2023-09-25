@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anastasiya\\Desktop\\папки\\C-sharp\\hello_user\\hello_user.csproj": {}
+    "d:\\папки\\C-sharp\\hello_user\\hello_user.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anastasiya\\Desktop\\папки\\C-sharp\\hello_user\\hello_user.csproj": {
+    "d:\\папки\\C-sharp\\hello_user\\hello_user.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anastasiya\\Desktop\\папки\\C-sharp\\hello_user\\hello_user.csproj",
+        "projectUniqueName": "d:\\папки\\C-sharp\\hello_user\\hello_user.csproj",
         "projectName": "hello_user",
-        "projectPath": "C:\\Users\\Anastasiya\\Desktop\\папки\\C-sharp\\hello_user\\hello_user.csproj",
+        "projectPath": "d:\\папки\\C-sharp\\hello_user\\hello_user.csproj",
         "packagesPath": "C:\\Users\\Anastasiya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anastasiya\\Desktop\\папки\\C-sharp\\hello_user\\obj\\",
+        "outputPath": "d:\\папки\\C-sharp\\hello_user\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anastasiya\\AppData\\Roaming\\NuGet\\NuGet.Config"

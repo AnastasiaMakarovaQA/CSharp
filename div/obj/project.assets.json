@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anastasiya\\Desktop\\папки\\C-sharp\\div\\div.csproj",
+      "projectUniqueName": "d:\\папки\\C-sharp\\div\\div.csproj",
       "projectName": "div",
-      "projectPath": "C:\\Users\\Anastasiya\\Desktop\\папки\\C-sharp\\div\\div.csproj",
+      "projectPath": "d:\\папки\\C-sharp\\div\\div.csproj",
       "packagesPath": "C:\\Users\\Anastasiya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anastasiya\\Desktop\\папки\\C-sharp\\div\\obj\\",
+      "outputPath": "d:\\папки\\C-sharp\\div\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anastasiya\\AppData\\Roaming\\NuGet\\NuGet.Config"
